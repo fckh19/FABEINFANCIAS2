@@ -1,1 +1,2 @@
-// Configuración de Firebase
+// Simulación de configuración de Firebase
+export const firebaseApp = {};
