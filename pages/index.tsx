@@ -1,9 +1,7 @@
 export default function Home() {
-    return (
-      <div style={{ padding: 40, textAlign: 'center' }}>
-        <h1>Bienvenido a Fabeinfancias</h1>
-        <p>Explorá nuestros cursos para el desarrollo infantil</p>
-      </div>
-    );
-  }
-  
+  return (
+    <main className="min-h-screen flex items-center justify-center">
+      <h1 className="text-3xl font-bold">Bienvenidos a FABEINFANCIAS</h1>
+    </main>
+  );
+}
